@@ -1,0 +1,47 @@
+=================================
+  => React fundamentals
+=================================
+
+   1 - Create React App                                [ done ]  
+   2 - Function Components                             [ done ]
+   3 - Class Components                                [ done ]
+   4 - JSX                                             [ done ]
+   5 - Props and State                                 [ done ]
+   6 - useState and useEffect Hooks                    [ done ]              
+   7 - setState and Component Lifecycle Methods        [ done ]
+   8 - Conditional Rendering                           [ done ]
+   9 - Lists and Keys                                  [ done ]
+   10- Building Simple Forms  
+                         
+##################################
+
+6 - useState and useEffect Hooks                    [ done ]              
+   
+ => we use the hooks  is special type of a function that tell the browser to do cirten job 
+
+
+6.1 - useState()    
+
+ step 1 : u should import it  =>   import {useState} from 'react';
+ step 2 : to have the state   =>   const [ name, setState ] = useState('mohamed');  =>  mohamed could be array or object or any thing      
+   
+6.2 - useEffect()
+
+ useEffect(()=> {
+   // this function will be fired after every render to the component  
+})
+
+
+
+ useEffect(()=> {
+   // this function will be fired after the first render of  the component  
+},[]) 
+ 
+
+
+ useEffect(()=> {
+   // this function will be fired after the any change to that  variable 
+},[name]) 
+
+ 
+

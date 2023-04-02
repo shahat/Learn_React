@@ -1,0 +1,61 @@
+=================================
+  => React fundamentals
+=================================
+
+   - Create React App                                [ done ]  
+   - Function Components                             [ done ]
+   - Class Components                                [ done ]
+   - JSX                                             [ done ]
+   - Props and State                                 [ done ]
+   - useState and useEffect Hooks                    [ done ]              
+   - setState and Component Lifecycle Methods        [ done ]
+   - Conditional Rendering                           [ done ]
+   - Lists and Keys                                  [ done ]
+   - Building Simple Forms                           
+
+=================================
+  => Advanced Topics
+=================================
+ 
+   - Context    
+   - Higher Order Components 
+   - Render Props
+   - Refs
+   - api calls
+   - json server 
+   - Error Boundaries
+   - Portals
+   - HTTP Requests   => [ GET , POST ]
+   - Hooks [ 
+             - useContext 
+             - useReducer
+             - useRef 
+             - useMemo
+             - useCallback
+             - custoum Hooks            
+           ]
+
+[project]
+
+=================================
+  => Ecosystem
+=================================
+
+   - state Mangment     - Redux/Mobx 
+                        - Apollo Client [option ]
+  
+   - Routing            - React Router 
+   
+   - styling            - Styled Components/ Emotion
+                        - Tailwind CSS 
+                        - Chakra UI / Material UI / Ant Design
+   
+   - testing            - Jest + React Testing Library 
+                        - Cypress
+
+   - Misc               - TypeScript 
+                        - Storybook 
+                        - React i18Next
+                        - Firebase Practical React Libraries      
+
+   - Next Step          - Gatsby Next.js React Native                           
